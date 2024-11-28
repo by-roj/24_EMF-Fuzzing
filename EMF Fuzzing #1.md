@@ -125,9 +125,9 @@
 
 ### #1 Crash
 
-![crash-1](C:\Users\user\Downloads\evernote2md_0.21.0_Windows_amd64\PP\image\crash-1.png)
+![crash-1](image/crash-1.png)
 
-![crash-2](C:\Users\user\Downloads\evernote2md_0.21.0_Windows_amd64\PP\image\crash-2.png)
+![crash-2](image/crash-2.png)
 
 ​	→ `gdiplus!bGetNextRecord`
 
@@ -173,11 +173,7 @@
   }
   ```
 
-  
-
-
-
-
+<br>
 
 ### Reference
 
