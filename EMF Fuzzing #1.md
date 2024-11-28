@@ -50,4 +50,4 @@ litecov.exe -instrument_module GdiPlus.dll -coverage_file coverage.txt -trace_mo
 
 ### Reference
 
-- [https://github.com/math1as/Windows-GDI-fuzzer/blob/master/emf_fuzz/emf_fuzz.cpp](https://github.com/math1as/Windows-GDI-fuzzer/blob/master/emf_fuzz/emf_fuzz.cpp)
+- [https://github.com/math1as/Windows-GDI-fuzzer](https://github.com/math1as/Windows-GDI-fuzzer)
